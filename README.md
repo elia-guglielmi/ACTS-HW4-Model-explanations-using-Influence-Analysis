@@ -3,10 +3,10 @@
 This repository contains a comparative study of two machine learning model explanation techniques based on Influence Analysis: First Order Analysis and TracIn. The study evaluates their stability and consistency using the Titanic dataset.
 
 ## Repository Structure
-├── FragilityStudy_notebook.ipynb # Jupyter notebook with the complete study
-├── Score_Analyzer.py # Functions for influence score distribution analysis
-├── Comparison_Metrics.py # Functions for comparing ranked lists
-├── titanic.csv # Titanic dataset used for the study
+├── FragilityStudy_notebook.ipynb # Jupyter notebook with the complete study\
+├── Score_Analyzer.py # Functions for influence score distribution analysis\
+├── Comparison_Metrics.py # Functions for comparing ranked lists\
+├── titanic.csv # Titanic dataset used for the study\
 └── requirements.txt # Python dependencies
 
 ## Study Overview
